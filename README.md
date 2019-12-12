@@ -1,4 +1,4 @@
-# Website for Aidan Thmomas Parkinson
+# Website for Aidan Thomas Parkinson
 
 This website has been created from a bootstrap application. Designed for hosting on a web server.
 
